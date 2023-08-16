@@ -1,6 +1,5 @@
-#Yacine VALA
-#WhatsApp : +1 (705) 713-7939
-#Github : YacineVala
+#Yacine OS
+#Github : Yacineos
 from os import path
 import os,base64,zlib,pip,urllib
 try:
